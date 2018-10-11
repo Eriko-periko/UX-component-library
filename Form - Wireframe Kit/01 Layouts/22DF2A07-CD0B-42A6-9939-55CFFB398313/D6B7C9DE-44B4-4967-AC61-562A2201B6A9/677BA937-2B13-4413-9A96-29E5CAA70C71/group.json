@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "677BA937-2B13-4413-9A96-29E5CAA70C71",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66814F07-B6D5-4B7F-BC26-0E53EFAF21B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA0BF5AD-E8A5-4181-807E-A5E570B8A973",
+    "height": 358,
+    "width": 290,
+    "x": 15,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "9E9AE8EE-3ACE-4CBB-AAC1-88EE5593B0C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23CF9623-27CA-4AAB-ABD2-35EBACE6E035"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDA4674B-AB0C-457F-A33C-0DB846486AB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05523F91-A1B7-4C1C-A063-51E476AEE551"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2A7F8F08-9DD5-4A59-86A6-B95F37F157CF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F699C8E5-9E99-4109-9E06-4BD4D5F9E3C5"
+    },
+    {
+      "class": "text",
+      "id": "D0440BBA-F3F3-498A-A999-01A73DD74541"
+    },
+    {
+      "class": "text",
+      "id": "E91350EF-E9C5-442C-8AC8-9081F7F186E7"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B9494599-6727-48BF-BDCD-40EB0C1DE7F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

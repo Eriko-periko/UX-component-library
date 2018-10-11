@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D6424FA-4FBF-4BD7-944E-3034EC50F0EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 896,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "6C48F118-C09F-4FE0-B525-9815C2DC3662"
+    },
+    {
+      "class": "group",
+      "id": "77A27F7D-0CF4-4916-8314-A38D5AEA06C8"
+    },
+    {
+      "class": "text",
+      "id": "CA1EF040-0977-4BB2-BD8B-44294B905950"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8E8239A-B9EF-4901-B6B2-0DE43C112574"
+    },
+    {
+      "class": "text",
+      "id": "29D75915-FD64-4C97-96B5-62ED0DDA1874"
+    }
+  ],
+  "name": "Benefits #1",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

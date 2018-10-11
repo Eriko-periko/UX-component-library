@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7C2DD632-2703-4FE4-BF5B-4104D25D81E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8EEC36E5-D411-43F3-A639-EF67AA0ADB89",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A3E9E9C-175D-44E3-B826-FB6B40D4B908",
+    "height": 24,
+    "width": 210,
+    "x": 480,
+    "y": 334
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Address",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "42E13054-72E2-4152-B571-FC4E1F8B5C6E_symbolID",
+      "value": "8B66067C-E5DD-4080-9652-B69A52EA1BF5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29B82AF5-64E0-4697-B4DB-37147E2064BB_stringValue",
+      "value": "36 Stephon Ferry"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F2F2D968-22BC-4400-A7A8-D6A3AE5A9944",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E6E7F15-26EF-4A3D-B168-E972419C3A28",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1E46B51C-64E9-41AB-BE2E-A1B5228C7340",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0D50CE0-E331-4181-B594-8AC78E168AB0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "92351BEE-5C2B-48BB-A326-E4CB6C0BECA9",
+    "height": 1466,
+    "width": 320,
+    "x": 0,
+    "y": 9246
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2912CFD0-B21E-4192-A19A-3CC237A7F866"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DC59E7CA-76A3-4A1B-B7F4-CC38D2551850"
+    },
+    {
+      "class": "group",
+      "id": "108A041C-5833-45EB-97BE-9730025348DA"
+    },
+    {
+      "class": "group",
+      "id": "36D2D7F7-9841-4523-A08B-2BDEEDD732A5"
+    },
+    {
+      "class": "group",
+      "id": "F70A86F8-F713-439E-A361-694E29687A4B"
+    },
+    {
+      "class": "group",
+      "id": "D455E8D5-883D-41E1-94A9-3D4394409119"
+    },
+    {
+      "class": "group",
+      "id": "48D26844-66A9-4E4C-BCA2-67AF60DF386C"
+    },
+    {
+      "class": "text",
+      "id": "271A3F65-E65A-4DDE-8B60-E120FB96AFE0"
+    }
+  ],
+  "name": "FAQ #10",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "32CB562B-9D9A-4E8C-BA8C-5BCA90B88357",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

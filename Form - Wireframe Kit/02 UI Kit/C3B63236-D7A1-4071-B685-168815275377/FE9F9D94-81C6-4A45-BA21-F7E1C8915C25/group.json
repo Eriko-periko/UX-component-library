@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE9F9D94-81C6-4A45-BA21-F7E1C8915C25",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 222,
+    "width": 187,
+    "x": 781,
+    "y": 1165
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "55EB00F1-7E11-4211-8F22-12769D814E04"
+    },
+    {
+      "class": "group",
+      "id": "50E80707-8633-4B11-97AE-BDB6BADA3B1F"
+    },
+    {
+      "class": "group",
+      "id": "4FCEF7D3-24C7-4346-BCF3-136BFFBCED51"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E9AAD50-2B89-4B3F-84BC-2ECF77D4A54A"
+    }
+  ],
+  "name": "Dropdown #2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

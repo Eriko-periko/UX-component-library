@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "44E5690B-9DA2-4E16-A0DB-760B1522E9D3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "124763F7-A42D-4DBD-B56E-B7CD4128845B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "889A41FC-4B8B-4BFB-BCE2-86C957AF9D9B",
+    "height": 93,
+    "width": 129,
+    "x": 12,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "25C13321-F96C-4CAE-88F1-E427DEC0E737"
+    },
+    {
+      "class": "shapePath",
+      "id": "B36E5292-19BA-4D33-B5C8-E4C940C412B2"
+    }
+  ],
+  "name": "Cross lines",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92A8372E-8518-400B-8883-E7402FB6CDFC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

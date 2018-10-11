@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3529411764705883,
+    "green": 0.2941176470588235,
+    "red": 0.2588235294117647
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E77179B9-2CDA-4DEF-8E5E-BB8C7ECB9664",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1084DE2F-07D1-4264-AD5B-FF9D6A96E306",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC7EED0C-9E6E-4B9F-863E-CA837A70753C",
+    "height": 2115,
+    "width": 1440,
+    "x": 39140,
+    "y": 590
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4322B545-51DA-42A0-AAF0-A6AA216A51CE",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A0D5D4FE-F5FF-4C43-972F-42AAB3FC144F"
+    },
+    {
+      "class": "group",
+      "id": "4574A4FF-B7D1-41E1-85C8-416F119AE6F3"
+    },
+    {
+      "class": "group",
+      "id": "8853D301-11F2-4529-9F8F-2B192587224D"
+    },
+    {
+      "class": "group",
+      "id": "22FF9223-9035-44FE-9C35-811A073563C0"
+    },
+    {
+      "class": "group",
+      "id": "D4A8D405-8A92-435E-9883-9D23EF586E1D"
+    },
+    {
+      "class": "group",
+      "id": "3ACE474C-50FD-468F-B91E-43640C1253BF"
+    },
+    {
+      "class": "group",
+      "id": "C79959D4-26AB-4D5B-935E-DBE996E2A040"
+    },
+    {
+      "class": "group",
+      "id": "5B887A2A-B0F9-4514-97E9-7C28ED4073FD"
+    },
+    {
+      "class": "group",
+      "id": "04164298-0A4B-4223-A60D-6EACB4B25433"
+    },
+    {
+      "class": "group",
+      "id": "982B16D9-3C19-4BEC-8892-B029FFBE5D60"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.5,
+    "do_objectID": "A5039690-5458-4C08-BE74-41118B16A79B",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 135,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1170
+  },
+  "name": "Footer - Desktop",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4241FB40-58C9-4392-9241-1C6A248AD651",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AFD3F4BC-8F45-4CD7-9C46-C4B2687C3F81",
+    "guides": [
+    ]
+  }
+}

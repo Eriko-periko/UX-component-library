@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE9DC7D6-E455-420F-85DE-2E6579FBF0AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3274110A-6737-497D-BE9F-4F5ACA060127",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4720DD9F-201B-46A4-AF2E-8A1AE61BA413",
+    "height": 73.49999874830246,
+    "width": 184.0999968647957,
+    "x": 136,
+    "y": 385
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#3",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F14D0099-2FD8-44E4-BF65-CE8A78F74B02_stringValue",
+      "value": "Paid traffic"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "146ED054-F1CC-40E6-8E2A-586A959E5499_stringValue",
+      "value": "48%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.699999988079071,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C83B0876-1BA4-4EB6-A005-27AA4CE81E1C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.99999988079071,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2950135F-4033-426C-8EA0-9903F6C34542",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "393F62AA-7C23-48E9-BA61-76BB3E239D93",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

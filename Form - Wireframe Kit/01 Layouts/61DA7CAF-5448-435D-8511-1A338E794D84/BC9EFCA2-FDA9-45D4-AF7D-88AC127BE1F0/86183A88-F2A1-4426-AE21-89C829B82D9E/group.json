@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "86183A88-F2A1-4426-AE21-89C829B82D9E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B227F140-E6A9-4916-BA5B-774F1F5D19F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "73C69F20-0D28-4CCE-A8C8-11A9289AFAD9",
+    "height": 111,
+    "width": 668,
+    "x": 44,
+    "y": 253
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BBDB627F-DC55-4A79-BD84-759730DBA500"
+    },
+    {
+      "class": "group",
+      "id": "EC9A16FF-86DC-415E-8115-70200E8464A2"
+    }
+  ],
+  "name": "Steps Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E16CCD65-A9C2-476D-B012-4605F51A2A76",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

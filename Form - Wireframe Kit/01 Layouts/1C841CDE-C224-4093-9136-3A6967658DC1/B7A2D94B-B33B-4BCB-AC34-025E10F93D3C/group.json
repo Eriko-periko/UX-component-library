@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7A2D94B-B33B-4BCB-AC34-025E10F93D3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9131DA25-6C46-4D70-8AD9-0E0F0789833D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DF8BFB0-3E25-4FB9-B489-CCBDD5B0FC79",
+    "height": 575,
+    "width": 1440,
+    "x": 0,
+    "y": 1345
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A1058BA7-82CB-4F38-BFC2-7BB96639208C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "92A009B6-D552-41A7-AE99-A165ECD3224B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7E46BCD-DC8C-422E-92FC-B03AB883564C"
+    },
+    {
+      "class": "text",
+      "id": "41AE658A-7A0D-41E9-8743-DB105DC68587"
+    },
+    {
+      "class": "text",
+      "id": "3A629781-86D0-44EC-90C4-34AD21330DEC"
+    },
+    {
+      "class": "group",
+      "id": "7D8229DE-E60C-41D0-8778-F154980AF394"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF28CE89-587B-4FCB-B866-C2E2639C99EF"
+    }
+  ],
+  "name": "CTA #4 - Download",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F76DCEFD-2825-45BA-B2A0-CFFFF764B940",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

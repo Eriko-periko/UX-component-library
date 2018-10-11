@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3529411764705883,
+    "do_objectID": "BF503E62-ACE0-4981-88DB-11EAD29E3389",
+    "green": 0.2941176470588235,
+    "red": 0.2588235294117647
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFD19312-6C08-4827-906E-5FD3B8FBCA80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FD68FDD9-7085-4168-A197-E21D6078DEB2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDB8D790-06DB-42B5-A5CD-F4F22795D887",
+    "height": 9810,
+    "width": 768,
+    "x": 20712,
+    "y": 590
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8222E07-AD4C-489C-AA3C-35C78F8896C6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B62D05EC-8D92-4B56-BC96-4812B8B7BB20"
+    },
+    {
+      "class": "group",
+      "id": "E778128D-3C74-4057-AE5B-0C82759347FC"
+    },
+    {
+      "class": "group",
+      "id": "F581C955-CBEE-480C-B4E8-F29C86C6EDEB"
+    },
+    {
+      "class": "group",
+      "id": "331B10EE-C0FA-40FB-BD81-BD09904F2041"
+    },
+    {
+      "class": "group",
+      "id": "2994D071-FD17-4255-960F-9CD41AC3A540"
+    },
+    {
+      "class": "group",
+      "id": "FA5C5ACD-2C8B-4F59-8657-7C972C1168BF"
+    },
+    {
+      "class": "group",
+      "id": "6B2DA1F5-B831-4C53-9FF5-31873DAFBC7B"
+    },
+    {
+      "class": "group",
+      "id": "1E64F680-5122-4EE1-8919-0EA0196C2117"
+    },
+    {
+      "class": "group",
+      "id": "B5A92491-BAA3-4084-9491-CE04AB50415B"
+    },
+    {
+      "class": "group",
+      "id": "0624FA52-BB15-4CB0-8DDE-3AAAE62EE9CA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90,
+    "do_objectID": "4BCD67A1-E40A-4690-8144-403D70C4BCFD",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 720
+  },
+  "name": "FAQ - Frequent Asked Questions - Tablet",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "23A49AE1-FF6C-4733-8D21-0328EE4A3B89",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EB9FA45A-EB44-4901-9194-D9A341F7670F",
+    "guides": [
+    ]
+  }
+}

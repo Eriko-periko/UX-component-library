@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2BBA1E2-2F8B-40AE-8345-ED9D76C8ADFB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AEF465F3-D87C-4379-A048-C1908BF9A9C9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "41BF3EDC-5174-4487-AB2B-4FFB1E81B37C",
+    "height": 806,
+    "width": 1440,
+    "x": 0,
+    "y": 3790
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A11F88FD-C058-4BD2-B2FA-BB81B5F458EF"
+    },
+    {
+      "class": "text",
+      "id": "6748545B-FAAB-40DB-BCD6-90CABB8D1E76"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "031CB92A-2A71-4150-8B5B-B3249E00816F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45646CFD-1CA0-43F9-8624-B0BD5E614969"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1977B7E9-B696-4317-B852-7EE25C40D9E3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84FC0A4B-56DC-4AC9-A5C7-DE9C8C3FB21B"
+    },
+    {
+      "class": "text",
+      "id": "8DD81A12-3697-473D-88EC-B135148A8BF8"
+    },
+    {
+      "class": "text",
+      "id": "4617D396-0011-4A45-8DE1-DDF63CBB621B"
+    }
+  ],
+  "name": "Pricing Table #5",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1C914666-45A0-4AED-B468-59ECAC688D1C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

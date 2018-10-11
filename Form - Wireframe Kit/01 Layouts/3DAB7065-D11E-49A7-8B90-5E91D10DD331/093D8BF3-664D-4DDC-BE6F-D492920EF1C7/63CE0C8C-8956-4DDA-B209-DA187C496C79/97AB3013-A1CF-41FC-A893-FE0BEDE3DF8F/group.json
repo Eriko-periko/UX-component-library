@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "97AB3013-A1CF-41FC-A893-FE0BEDE3DF8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1B391E2-B6C5-4F3F-A72A-85E59CEE8DD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4138DA94-CAC2-4232-B5A3-E6CCF9C8412C",
+    "height": 438,
+    "width": 368,
+    "x": 184,
+    "y": 48
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "0A68E137-F342-4569-BB1D-1A1E331B3BAD"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C7C9ADD-8429-462C-845A-B7494DF1310F"
+    },
+    {
+      "class": "shapePath",
+      "id": "49BEEC7B-3CDD-464C-8E0A-9357A8ED0E8B"
+    }
+  ],
+  "name": "Connectors",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31996BA4-77DE-4711-9B8B-025FE36F96D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

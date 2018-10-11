@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AF28CE89-587B-4FCB-B866-C2E2639C99EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8130C20B-C5E2-47A9-87A1-22B7A95579AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1B5C451E-C221-40D4-AE41-DF414C3587F9",
+    "height": 322,
+    "width": 178,
+    "x": 1010,
+    "y": 253
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Apple_Watch",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.5850000321865082,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A97A7D52-B048-46FA-8F67-56072C862DFB",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 5.850000321865082,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "00E9621D-05DE-4136-8BFE-10517215D710",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "074FD334-5030-4AC6-A8B0-601106755515",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

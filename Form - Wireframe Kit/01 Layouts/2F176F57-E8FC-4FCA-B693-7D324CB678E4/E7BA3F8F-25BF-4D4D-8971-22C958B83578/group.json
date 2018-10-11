@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E7BA3F8F-25BF-4D4D-8971-22C958B83578",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FB03DE91-857A-4108-ABCD-0D81190B482E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6F07B70E-D36F-4AC0-91FF-CCE39DE00C5B",
+    "height": 433,
+    "width": 768,
+    "x": 0,
+    "y": 2228
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2C17394C-C94E-4216-AE9D-948779727D5A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7635C33A-FAF3-46CC-A2A3-DC054D78A5AE"
+    },
+    {
+      "class": "group",
+      "id": "5621EF2E-0BF5-41CF-B9C9-A1D379F7BCD8"
+    }
+  ],
+  "name": "Slider #6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AEC2816-1318-4871-9038-F1267F81B0FD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

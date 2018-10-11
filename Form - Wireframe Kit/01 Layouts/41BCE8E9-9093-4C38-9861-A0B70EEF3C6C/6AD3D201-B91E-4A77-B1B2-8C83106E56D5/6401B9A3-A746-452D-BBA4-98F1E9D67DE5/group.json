@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6401B9A3-A746-452D-BBA4-98F1E9D67DE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 213,
+    "width": 320,
+    "x": 0,
+    "y": 149
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C431AE88-8BE0-4EFD-8995-AC6CFF8405C5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3DFC1535-BC44-4376-8E56-B7C6A07F94A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "87D5B0E6-60C4-47E5-8E1A-C5DBD642FB2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE9C8909-8192-487E-9957-181BC961234B"
+    }
+  ],
+  "name": "image corousel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

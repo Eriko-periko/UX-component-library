@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "89C771C8-7FF7-41A7-A7FA-6DC491E38D30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 649,
+    "width": 692,
+    "x": 38,
+    "y": 408
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C7BDFAEA-8C9E-4914-B6F1-5A73235BE858"
+    },
+    {
+      "class": "group",
+      "id": "7058CB06-BFA8-44F0-A9B6-36AFCEE30530"
+    },
+    {
+      "class": "group",
+      "id": "D4F2BCE3-34F6-4373-9711-C233777FDFE2"
+    },
+    {
+      "class": "group",
+      "id": "68B7E8B5-57CB-4936-B9F3-A659F17B3A65"
+    },
+    {
+      "class": "group",
+      "id": "8C4C771D-2146-4645-AC07-296EE27C61C2"
+    }
+  ],
+  "name": "Device + Tooltips",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

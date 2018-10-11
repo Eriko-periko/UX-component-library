@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D0C855F-DDA9-4213-A5F0-625B52BCBF9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1375,
+    "width": 1440,
+    "x": 0,
+    "y": 4375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "11B3CDC7-259A-4754-9423-139A1CCA7A0E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D19AC34F-DF6E-4BEC-A136-826F959579A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C69C04C5-EDC4-41BD-861F-FC2396FAD1FC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CC6A2695-0713-43AE-B9F6-2C4E32A1E9FF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B934464C-6F29-4306-B158-00E37B488ADC"
+    },
+    {
+      "class": "text",
+      "id": "1C2DDA32-4D7F-43A2-8685-7FE7D45681EB"
+    },
+    {
+      "class": "text",
+      "id": "59B6078C-D1EF-4486-9534-168E3B8E1227"
+    }
+  ],
+  "name": "Benefits #6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

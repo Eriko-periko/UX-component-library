@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "36CCBE63-BF2E-4D2E-988E-179D1FF87662",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "518D48F8-AC34-41D8-84EC-86310186C04B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D626E11-988B-4611-993C-07E5A8B9BD15",
+    "height": 352,
+    "width": 290,
+    "x": 15,
+    "y": 568
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B22B9B52-F5AB-47E3-B4E4-442D2A366EDA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8AEFBED9-D2B3-40D9-9478-6E9FB243EE93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8A1322A-576C-4952-8EB8-3DA0B8D6FA70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2609AC84-6227-42D5-9B00-E79230D73A4B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C29AE2EF-CB37-436B-A002-328D7848951D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F911EE3D-196B-476E-8A17-5A5A774C7A25"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CEDF861-9508-4540-A03E-1CC5E6ECFD7A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76D58082-4A38-48C1-9213-5D4113CDE3AD"
+    }
+  ],
+  "name": "Bullets",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "51DC51F6-8C9E-4DBC-834C-FF33453E2CB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

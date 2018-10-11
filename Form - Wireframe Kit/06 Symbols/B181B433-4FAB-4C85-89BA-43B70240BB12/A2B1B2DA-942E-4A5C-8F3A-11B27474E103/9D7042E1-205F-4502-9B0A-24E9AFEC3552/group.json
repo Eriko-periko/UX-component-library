@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D7042E1-205F-4502-9B0A-24E9AFEC3552",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7EA71932-DFFF-4C66-BA1C-ABD9E59917E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EEB6B99A-D36E-41CD-BBC2-B1DB2A9A0BC4",
+    "height": 26,
+    "width": 22,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B7E4E7D1-D5EB-4D38-84AF-2E31C3E8AF74"
+    },
+    {
+      "class": "shapePath",
+      "id": "31A85DE8-69DB-46B1-9434-99FFE9090B32"
+    }
+  ],
+  "name": "Apple",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6D22B5DF-AD4F-4423-BBAB-A1CCBF412C8B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

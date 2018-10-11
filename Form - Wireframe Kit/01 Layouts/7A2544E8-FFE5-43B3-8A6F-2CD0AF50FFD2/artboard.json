@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3529411764705883,
+    "do_objectID": "5E6F9047-1438-4C50-BC6D-5A8FFC48408A",
+    "green": 0.2941176470588235,
+    "red": 0.2588235294117647
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7A2544E8-FFE5-43B3-8A6F-2CD0AF50FFD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "206BBCE7-4756-4A82-9D24-42155823D443",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8D6E75DE-F0D4-4DD2-8C85-788E1C9D7B8D",
+    "height": 9634,
+    "width": 768,
+    "x": 24040,
+    "y": 590
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2BC4FC31-AC50-4DB6-9627-A8EF7993E954",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "3650D6A8-8650-4743-9D36-05BA2C43EA49"
+    },
+    {
+      "class": "group",
+      "id": "BFAB6F99-E801-40F6-B9B6-F51D11E907F0"
+    },
+    {
+      "class": "group",
+      "id": "D307FAF6-0BC0-4EDA-8B51-416A369A943B"
+    },
+    {
+      "class": "group",
+      "id": "3916B2C3-43C0-41A6-903F-F2641FAA8E30"
+    },
+    {
+      "class": "group",
+      "id": "316396BC-823C-4681-835A-88C14737EDA7"
+    },
+    {
+      "class": "group",
+      "id": "0483EA4F-0B27-46BF-9D81-FEA7C2CA1A0E"
+    },
+    {
+      "class": "group",
+      "id": "597ADEC7-27AA-494F-9DE6-7FD159B21152"
+    },
+    {
+      "class": "group",
+      "id": "2E50CA86-EC35-465D-9FCD-2A7DD633916E"
+    },
+    {
+      "class": "group",
+      "id": "E01427F2-3589-4508-B4A5-C10480B87A00"
+    },
+    {
+      "class": "group",
+      "id": "59AD07F5-4F47-4368-85FA-870520F083CD"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90,
+    "do_objectID": "1461533F-91F5-447D-A3BD-00FA5A9D3503",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 720
+  },
+  "name": "Pricing Table - Tablet",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1E09FC89-91CA-46EB-86A3-4D0E3F818DEB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2F469906-8CC8-4F35-B212-CDADDC2C8EDE",
+    "guides": [
+    ]
+  }
+}

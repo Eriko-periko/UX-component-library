@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F9C9D35-E911-456F-B9F1-ADF5F9C3F1F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A3A7191C-D89A-472B-BB5A-13BEEA14B219",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "17C96FAC-00BC-496A-93A9-6878380469E1",
+    "height": 394,
+    "width": 679,
+    "x": 15,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Laptop",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.7999999523162842,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "4FE6A114-C220-4A53-A49F-39DDBFFA05C6",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.999999523162842,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "2E7B4DB5-3740-420F-9D5A-7A1F48289A4E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A446538D-1532-41ED-AE5E-8C042AAC50A2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 394,
+            "enabled": 1,
+            "modelID": "constraint_a5997f6e-263f-4223-912f-cf866c68d022",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 679.1893
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_12075893-f296-42ec-9819-723cfa8bdf90",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

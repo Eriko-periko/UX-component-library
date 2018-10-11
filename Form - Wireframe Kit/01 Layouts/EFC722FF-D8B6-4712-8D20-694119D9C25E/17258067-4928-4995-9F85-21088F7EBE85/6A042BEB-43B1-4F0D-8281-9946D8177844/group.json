@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6A042BEB-43B1-4F0D-8281-9946D8177844",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C85CF28B-78F4-44CE-96CB-0D5E19EB914D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B39D40C-C14B-4BF6-9445-B86E73DAF81D",
+    "height": 25,
+    "width": 100,
+    "x": 110,
+    "y": 543
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "009AE33B-E6CA-4873-8511-362F05196B0C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0EF1456-D9A1-436C-B4B7-602541164F72"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D5BEA983-AF78-41FD-9A20-83C82B6BACC8"
+    }
+  ],
+  "name": "Social Media",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5385870-DF10-4900-B29A-5CD2A0E668C8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

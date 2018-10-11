@@ -1,0 +1,119 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3406,
+  "clippingMaskMode": 0,
+  "do_objectID": "5CDE7348-BD0C-4E5F-99F4-F61C461F8FC1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 637,
+    "width": 309,
+    "x": 22031,
+    "y": 2495
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "D0E848F3-5DBD-46EE-A528-9398BEECEF28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C3221851-369D-4943-9260-7AAA244F0F68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E26C2E26-952C-45B4-BF5C-C249815746B8"
+    },
+    {
+      "class": "group",
+      "id": "453603C9-2CDA-44FC-BDF6-34C724FBE1F0"
+    },
+    {
+      "class": "group",
+      "id": "62ABC74A-6201-4B4A-B16A-4E4144760660"
+    },
+    {
+      "class": "group",
+      "id": "BCA1A6E3-884B-4A4C-834D-196A9630A6F7"
+    },
+    {
+      "class": "group",
+      "id": "51779BB9-12E3-4ADC-B5FF-302197566F6B"
+    },
+    {
+      "class": "text",
+      "id": "98F3B918-DC27-419E-B522-16C4F3D7B5C7"
+    },
+    {
+      "class": "group",
+      "id": "4E5CBF26-C224-49FE-A5ED-157BB526F8A8"
+    },
+    {
+      "class": "group",
+      "id": "9F2E52E1-6797-4BC4-8529-CA17F37E682B"
+    }
+  ],
+  "name": "Molecules / Pricing Table / #5",
+  "nameIsFixed": false,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C5337E54-B856-4A3A-B639-19B11700B986",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

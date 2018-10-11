@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "85847925-3925-4C60-B8F5-25823FBCB86A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E2A57AFA-C5F3-43D4-AAE9-D2FB1472EBE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B94DB0B2-EC72-42B7-8283-AEB6999150CF",
+    "height": 148,
+    "width": 210,
+    "x": 1,
+    "y": 1
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2AFE1345-41C4-44F4-B21C-25894D867950"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7E559CE1-F39D-42EB-B0CB-7777C82D4DA7"
+    },
+    {
+      "class": "text",
+      "id": "0A770027-032B-4043-BC3B-65C0A5C37EFE"
+    },
+    {
+      "class": "text",
+      "id": "0F45E2AE-D8A1-4F0F-A806-46AA8A04058F"
+    }
+  ],
+  "name": "Molecules / Components / Popover / Top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "54A9EC61-12C6-4FEA-9FF6-A9531A25CF36",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

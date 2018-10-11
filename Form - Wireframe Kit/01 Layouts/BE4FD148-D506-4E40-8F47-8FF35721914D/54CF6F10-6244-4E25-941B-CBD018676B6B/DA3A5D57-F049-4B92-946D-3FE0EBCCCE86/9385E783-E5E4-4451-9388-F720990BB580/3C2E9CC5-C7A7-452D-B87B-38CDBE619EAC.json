@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3C2E9CC5-C7A7-452D-B87B-38CDBE619EAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35FB5B06-A1E4-4F0E-8003-182B89F58100",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66AC7726-0DFE-414D-AFD1-8E38073A6B7E",
+    "height": 73.49999874830246,
+    "width": 184.0999968647957,
+    "x": 0,
+    "y": 454
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F14D0099-2FD8-44E4-BF65-CE8A78F74B02_stringValue",
+      "value": "Referral programs"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "146ED054-F1CC-40E6-8E2A-586A959E5499_stringValue",
+      "value": "8%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.699999988079071,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C15FA806-822B-4100-A80C-448B248E4AAC",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.99999988079071,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "98BAB15B-C76E-4510-BB69-7F1885F1A05D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "393F62AA-7C23-48E9-BA61-76BB3E239D93",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

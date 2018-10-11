@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE7A1136-50CC-46FE-81D3-EACEAC88D235",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2B027918-ACF5-4357-930F-A98C60CB6C31",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5F65BBDA-17A2-4CAC-B23C-0B67B6DCA12F",
+    "height": 145,
+    "width": 320,
+    "x": 0,
+    "y": 845
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "06B907F8-84B1-4EA3-874B-979D6F58290A"
+    },
+    {
+      "class": "rectangle",
+      "id": "890BD7C8-471F-459A-B0C8-F707051B7980"
+    },
+    {
+      "class": "group",
+      "id": "D58B63F7-3D4E-4470-BFE0-F7FD51317677"
+    }
+  ],
+  "name": "Carousel",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C8616D1F-0B1E-4FBC-8048-7C204FD7791E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

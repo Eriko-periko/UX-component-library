@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8505C239-0604-4AC0-9A3A-55CFDE20BE07",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "898ABFFC-9FDD-447E-8B46-49B1BE1D3D1B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B421178A-74E9-48FD-887F-183BD94EE6B0",
+    "height": 289,
+    "width": 410,
+    "x": -126,
+    "y": 16
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPad 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.699999988079071,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0EC7DCE2-D5F0-4DC8-82CE-2F852D1D5A8D",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.99999988079071,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "83450ADC-F4B5-4382-BF1A-BC16C19C68D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBBF6DC4-DE8D-47F8-8381-53A970290E51",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 288.5358,
+            "enabled": 1,
+            "modelID": "constraint_1255be42-e041-41b1-b6a3-b244ffcb0282",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 410
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d98f00c2-9255-4b64-80c4-cc66ddc727b2",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

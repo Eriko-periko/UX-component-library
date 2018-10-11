@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F0EBA128-3ACE-4113-B2FB-348B8A62A7BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "425E5185-D062-4024-AC63-0AD0D1FD719B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0DF6AF54-D3CB-4580-8267-DD019A0079DE",
+    "height": 991,
+    "width": 320,
+    "x": 0,
+    "y": 4210
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C12A09D9-3340-47D9-B20B-6C5E4B94B942"
+    },
+    {
+      "class": "group",
+      "id": "FE7A1136-50CC-46FE-81D3-EACEAC88D235"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3FF5A6BB-8C6B-47F1-8DCD-59BCA5BC3079"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C4C8AAE-7095-44A8-8B45-4828859363E0"
+    },
+    {
+      "class": "text",
+      "id": "BB4187BD-FBB9-477B-AAE4-87220C0E4A1F"
+    },
+    {
+      "class": "text",
+      "id": "30F948CA-5A1B-4CE5-8B9C-68EF09148BF9"
+    }
+  ],
+  "name": "News #5, 8, 9, 10",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA6B20A9-8DAD-4E3D-965F-3AFE4DD6DDCD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

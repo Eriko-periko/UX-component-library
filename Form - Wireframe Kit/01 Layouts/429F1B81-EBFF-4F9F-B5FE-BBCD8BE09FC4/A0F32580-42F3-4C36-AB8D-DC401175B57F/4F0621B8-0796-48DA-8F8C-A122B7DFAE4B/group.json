@@ -1,0 +1,83 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4F0621B8-0796-48DA-8F8C-A122B7DFAE4B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8F360A59-5C2E-4F4A-8D61-6EDF970ECD0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FC69EEE-5A1E-4AC7-A30D-FDAFEC115E8F",
+    "height": 704,
+    "width": 291,
+    "x": 15,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8B80B334-748A-4730-9E6F-80D9C9A24601"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2250D450-DCA5-430C-A286-1A0E53689C3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C1B509BC-C3B7-4241-AC9A-10B331341220"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2F0182A-3F1B-41C8-AB4B-8E5B2C0EB81A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "671E10F8-E4F2-45A3-9F05-D43C12343E42"
+    },
+    {
+      "class": "group",
+      "id": "ACAE73D7-732A-4605-92FE-5DFCF0A3AAA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7D83156B-A0B1-42EA-A4BD-7F9185D9CD3B"
+    }
+  ],
+  "name": "Questions",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "31ABF4CD-ECAC-42C7-9DEB-70DACD0CDB45",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

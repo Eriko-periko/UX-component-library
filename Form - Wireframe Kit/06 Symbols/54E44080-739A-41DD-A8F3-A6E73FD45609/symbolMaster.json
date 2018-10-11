@@ -1,0 +1,117 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A4D48160-3815-4160-803C-70B39AC0DE13",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 354,
+  "clippingMaskMode": 0,
+  "do_objectID": "54E44080-739A-41DD-A8F3-A6E73FD45609",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5996FDB6-FBF5-4B69-B45E-2345473A6E9F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D808AA4D-4DC6-4B99-8F48-3187F7B92A20",
+    "height": 54,
+    "width": 320,
+    "x": 28045,
+    "y": 4322
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -76,
+    "do_objectID": "5F0AD076-7274-4DEA-A055-BEA751BF3B8A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C11C2726-4463-472F-97D1-BBB81F40EF26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "874F78B8-84E6-49D6-9ACD-B08C82331B93"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4CBC7D8-089F-46DC-BEE5-130A6C785EDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B027A46A-7A4C-4868-A119-7DB18712C455"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 50,
+    "do_objectID": "CFBEC2DF-4857-45B3-A496-200B3FA572F8",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 0,
+    "isEnabled": false,
+    "numberOfColumns": 4,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 320
+  },
+  "name": "Organisms / Mobile / Navbar / #9",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB3E41F7-0778-4CC8-92AA-B4E6D59CA540",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54D59712-97F2-4222-AB51-AF2852DFA656",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0DB2D6EC-ACD0-49D1-8D71-DDDBEAB6E01A",
+    "guides": [
+    ]
+  }
+}

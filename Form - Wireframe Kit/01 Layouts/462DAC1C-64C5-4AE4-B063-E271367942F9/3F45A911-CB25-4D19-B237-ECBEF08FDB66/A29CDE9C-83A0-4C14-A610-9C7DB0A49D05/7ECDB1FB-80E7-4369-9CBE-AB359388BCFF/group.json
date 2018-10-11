@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7ECDB1FB-80E7-4369-9CBE-AB359388BCFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46A9BBE2-9CE0-4289-9D60-A5AC4B8380FC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B1513C7E-E5BF-4A5E-8507-AD08A394F646",
+    "height": 123,
+    "width": 123,
+    "x": 412,
+    "y": 46
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "743F8628-07A0-4760-A9F5-CD35FD05331C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "35EFBB7A-59E0-4B99-AA44-F585F0A86364"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A70D2842-FACD-4BA3-9166-B0F1ECEA5A10"
+    }
+  ],
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "1591BA6A-64CA-48B3-BE21-35460CAD6104",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.999999523162842,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "ADDFAF12-59E8-41BA-A6CF-76EE85770510",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
