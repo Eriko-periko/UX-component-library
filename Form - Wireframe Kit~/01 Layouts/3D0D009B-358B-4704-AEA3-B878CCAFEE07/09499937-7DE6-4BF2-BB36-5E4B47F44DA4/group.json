@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "09499937-7DE6-4BF2-BB36-5E4B47F44DA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1365,
+    "width": 320,
+    "x": 0,
+    "y": 956
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2A2A8857-658A-43DE-8F79-8DC01F30A3D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4640E8D-CC9C-48EE-8819-D0D919D1EB45"
+    },
+    {
+      "class": "group",
+      "id": "D3A3A236-BB57-4E84-AAA3-709932285825"
+    },
+    {
+      "class": "group",
+      "id": "BF8FDC5B-8757-43FB-B5D8-67A3FE3AA46B"
+    }
+  ],
+  "name": "Benefits #2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

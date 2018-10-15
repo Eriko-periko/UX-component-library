@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4A0EE0E-4B71-47B1-A6F6-6133710E7358",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1556B14-D482-4E38-8900-84EF239CCAC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "68DCAB1E-A2C1-4FA4-9DE2-E3C53D416245",
+    "height": 176.912038723138,
+    "width": 330,
+    "x": 39,
+    "y": 378
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#4",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "198608A5-B70A-43D1-B19C-8B7B8126B717_stringValue",
+      "value": "How to Spot the Big Dipper"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF561A70-E24F-435B-8F22-5C076144152A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0B6643FB-769F-4D9E-B23D-69DC423B78B7",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 176.912,
+            "enabled": 1,
+            "modelID": "constraint_998dd04f-05b9-4dec-ad5e-75d3ca4147a9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 330
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_26276e52-b987-4d9b-9576-49808869df4f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

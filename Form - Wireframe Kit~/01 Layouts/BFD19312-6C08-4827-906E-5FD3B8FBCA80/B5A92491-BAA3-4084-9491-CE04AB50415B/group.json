@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5A92491-BAA3-4084-9491-CE04AB50415B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3E188F1-CF4B-43D3-84C1-A39DF138A255",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "221E7F85-1B19-44D0-AFDD-53FB458338D6",
+    "height": 736,
+    "width": 768,
+    "x": 0,
+    "y": 799
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1781060E-4A86-47DF-B58A-EC7BB1B031D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62FEECB8-6180-4ED2-B531-0AAE79046F75"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D04DB96-A5A4-40F8-9F6E-B5B97C82109E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "854014A7-9C5D-4A04-AC6F-751E69C7A7EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2D76918-10F9-46A1-B941-282368914E2A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9FEE162-785B-437D-BFDC-1A704F082610"
+    },
+    {
+      "class": "group",
+      "id": "01F6971B-D8FB-4E24-9FF6-C32ACDD58444"
+    },
+    {
+      "class": "text",
+      "id": "4EF1A509-9A55-469C-8EF8-455C040504AD"
+    }
+  ],
+  "name": "FAQ #2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5CA8CC79-6E51-4219-B81D-4BF9B22D90D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

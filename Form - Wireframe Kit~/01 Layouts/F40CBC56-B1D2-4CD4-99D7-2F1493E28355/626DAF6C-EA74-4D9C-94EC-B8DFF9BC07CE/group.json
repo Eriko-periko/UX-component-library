@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "626DAF6C-EA74-4D9C-94EC-B8DFF9BC07CE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9E16C4CE-BBA0-4B04-8709-432888276463",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "07DB750A-F8D8-4051-806D-FD0FA0F0D556",
+    "height": 1997,
+    "width": 321,
+    "x": 0,
+    "y": 4114
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6F4F0216-3CE3-4BA0-B636-B548F5802736"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2D64D4DC-0A3F-47E9-9DF6-9C329798BEF3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "799210E3-CFB6-4491-8746-F8B54618F681"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72369418-9C41-4DC9-8357-D291D576208C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EAACCABE-6172-4283-A43B-998FFDB5AC92"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5E1D3DBD-B8BD-4309-9266-28254FA756A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6F3F7AAE-B8A4-427B-876F-D2F40582AEA2"
+    },
+    {
+      "class": "text",
+      "id": "6D04F4BE-E9D2-4726-9D72-F9E277E2C1CA"
+    },
+    {
+      "class": "text",
+      "id": "0B7EB621-5E3C-48A2-8013-A217ECAD60F0"
+    }
+  ],
+  "name": "Pricing Table #3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35CB3152-AA28-416A-B13C-31E33CFFC664",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

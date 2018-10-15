@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D31EE8E-D34D-42E4-B608-6B4F5E438B17",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0B8BA9C-C2E2-4E0D-B2FC-CB941291753A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5D39B706-91D2-4FF4-BCE7-D900FC1754BA",
+    "height": 23,
+    "width": 209,
+    "x": 240,
+    "y": 74
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "0F166B5F-8C22-44E4-8F4D-7C9BF803EB21"
+    },
+    {
+      "class": "text",
+      "id": "DA4415ED-385C-4935-BBB2-AA7F4A3F48CC"
+    },
+    {
+      "class": "text",
+      "id": "E42E84E4-3EAA-452A-A430-026C841506CB"
+    }
+  ],
+  "name": "Bullet#4",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B535C2A-6D4C-40DC-933D-BBC9FA790A83",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

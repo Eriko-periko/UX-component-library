@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D601E692-AB58-41BD-9000-3121F307633F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 531,
+    "width": 165,
+    "x": 1125,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "18F39715-878D-49F0-A888-2EE6CE0B61EC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFD0C88B-040A-4FB4-824E-69E68EFC6299"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "290C3312-9B18-4AA9-9984-E1A618A4B3ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "375F5AE9-B71F-4010-8D76-F8B6EDBCA3BD"
+    }
+  ],
+  "name": "Thumbnails",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

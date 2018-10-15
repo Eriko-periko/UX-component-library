@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BEE4D46B-8464-481B-BE1B-D665F9552D8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "141F0316-2D2B-44C2-BBF0-DDF010AEAA87",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B0247F1F-7EB8-4B56-A550-AC274A0F5279",
+    "height": 360,
+    "width": 360,
+    "x": 198,
+    "y": 75
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1527FF29-0526-492A-9D6E-B859182F6047"
+    },
+    {
+      "class": "shapePath",
+      "id": "BC16B2B3-5CD3-4F54-A008-ADFC6F8AF31E"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B061136-B9DF-476C-AE53-1C22E6224D9F"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3574E72-B848-43EE-B791-C0671A802A3D"
+    }
+  ],
+  "name": "Pie Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84128B5D-E005-4C7D-AF0F-9C18EA584895",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

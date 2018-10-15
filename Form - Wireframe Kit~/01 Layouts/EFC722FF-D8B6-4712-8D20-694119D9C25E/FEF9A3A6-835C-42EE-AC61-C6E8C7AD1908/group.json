@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FEF9A3A6-835C-42EE-AC61-C6E8C7AD1908",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FEA13C84-505B-46F4-82B3-3B2837F6A021",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5CD32A25-9DC5-4173-B09F-7BF29EAA67EF",
+    "height": 602,
+    "width": 320,
+    "x": 0,
+    "y": 2988
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1EE77ABD-621A-46D8-8742-B673828BB86C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3CAC71A3-1C84-4E0E-A325-06E63DCFEE80"
+    },
+    {
+      "class": "text",
+      "id": "E71BDC00-118D-4917-93CD-C273376CFF37"
+    },
+    {
+      "class": "group",
+      "id": "783B3636-9A09-46B2-AFDB-EFCFC6BED252"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "176BB563-32B7-4542-8C82-82F12B055084"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E936036B-8830-4F6F-90BB-FE8141BECC02"
+    },
+    {
+      "class": "group",
+      "id": "DDF25143-4A9F-4CD7-989A-20529A5CC8CE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "44D38453-250D-4B0A-9A9E-5C630A4C9196"
+    }
+  ],
+  "name": "Footer #6",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "40529399-A5D8-4F23-BA5B-63BAAA795DD0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D7DFB5F-AF2E-4AF4-8B6A-7DA0EBB6B563",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "98F6C914-64FA-42CF-AF77-C51CE241B1E5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1E64534C-C94E-432B-AC1B-D984DC27759E",
+    "height": 566,
+    "width": 804,
+    "x": -195,
+    "y": 15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": true,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "iPad",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F6EF279-1AAB-4F2F-9515-296880B448B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBBF6DC4-DE8D-47F8-8381-53A970290E51",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 566,
+            "enabled": 1,
+            "modelID": "constraint_78db0ce1-6dee-42a1-9b7b-d14d3ca7ee3a",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 804
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_66ed38c2-d5f1-4051-902c-1cbbdb13382f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

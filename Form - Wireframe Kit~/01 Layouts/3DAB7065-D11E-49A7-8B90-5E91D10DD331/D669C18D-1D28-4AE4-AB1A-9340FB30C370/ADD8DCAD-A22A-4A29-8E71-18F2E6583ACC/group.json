@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADD8DCAD-A22A-4A29-8E71-18F2E6583ACC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 598,
+    "width": 691,
+    "x": 39,
+    "y": 202
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "98BB6454-571F-4F4E-9980-3529CB93E9F1"
+    },
+    {
+      "class": "group",
+      "id": "D7795239-1BE7-432A-8C41-DE1E65E77E96"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F9E0B9C-AC47-42B0-9C77-9683C3035658"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BD20965F-F307-4373-A5B1-9389D28518A7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4D15CB97-5627-452D-B190-1D97656042D4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "699080CA-9071-49BB-A4D9-20C29AFB2B37"
+    }
+  ],
+  "name": "Graphic",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

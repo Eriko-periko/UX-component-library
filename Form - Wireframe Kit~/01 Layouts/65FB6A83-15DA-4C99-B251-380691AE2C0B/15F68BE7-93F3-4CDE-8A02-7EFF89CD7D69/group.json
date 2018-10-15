@@ -1,0 +1,95 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "15F68BE7-93F3-4CDE-8A02-7EFF89CD7D69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EFB90C8A-EED4-4306-819C-B41AB9B0AA26",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "803684E3-C463-4325-B22F-2EDF914A8F8F",
+    "height": 1006,
+    "width": 320,
+    "x": 0,
+    "y": 734
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "25A6200F-5000-4E52-A020-F1D32D10AFAF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "27FD09EF-273C-4606-90C2-99B78FB49EB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB1357E6-7D98-4DB0-A5C5-61FC09653170"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CED22931-39BA-4F70-B797-B4AF5FD07233"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D6664B65-7685-44F5-B5E2-141137847ABF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C7737367-023A-44EE-A328-07FA3523037A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33CB0667-A375-4797-9DB4-C56752121D7D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "40D153FF-3018-41FF-9D37-61ADE7B4D32B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A65E7A06-8B4C-43B4-893D-80C3506799DB"
+    },
+    {
+      "class": "group",
+      "id": "B8901A84-BE1E-40EA-9199-58FAE28053CF"
+    }
+  ],
+  "name": "News #2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4991754C-1417-4D87-B366-DB4753EDF37B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "29078643-F3FC-48FA-B78F-BD9B4A6EC231",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5EEB5DD-D00C-4656-A313-E7BB94CE5624",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4CBCF70-8B5B-4CC8-933C-8A15A9621A61",
+    "height": 609,
+    "width": 616,
+    "x": 0,
+    "y": 426
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6F7B3B79-413F-4F13-86EB-6314E93C980F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F2262C6-B3AB-4678-BF07-57637F29C465"
+    }
+  ],
+  "name": "ipad",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4DAE9ACD-E86D-4B04-A13D-A7118708960D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

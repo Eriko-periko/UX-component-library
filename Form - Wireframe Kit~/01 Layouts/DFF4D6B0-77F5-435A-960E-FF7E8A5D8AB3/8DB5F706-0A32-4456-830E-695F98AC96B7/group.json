@@ -1,0 +1,103 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8DB5F706-0A32-4456-830E-695F98AC96B7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7732D3C0-1D7C-4DCA-B826-0479E1DDE5B3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3D90B77F-F318-491D-9CF3-662A5711977B",
+    "height": 919,
+    "width": 320,
+    "x": 0,
+    "y": 12283
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "08459F48-77B0-426D-ADD2-C5FA62C0771B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EBE82507-2337-4108-B510-ABF1E9846DBD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C536510D-59EC-4EAE-9835-AF92C5989EBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "88EA6EA7-1FF5-408F-A89F-12F81E5D8E2D"
+    },
+    {
+      "class": "text",
+      "id": "E0A2E9F2-EA44-417A-A02D-2A7AAD6CDDBE"
+    },
+    {
+      "class": "text",
+      "id": "F1D82E91-14E4-49AF-B7C1-9FC9686B45BD"
+    },
+    {
+      "class": "text",
+      "id": "ED6AA5CC-8809-416E-BFFE-639D57006825"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3731158-FD73-46F5-BE77-76936D7E43C8"
+    },
+    {
+      "class": "group",
+      "id": "00AD0A90-8CA5-47E2-BB8B-7F686FF9C83A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EFE67D10-06AB-463A-BE17-ED67662E17CE"
+    },
+    {
+      "class": "text",
+      "id": "F0D4A8AC-0A82-40B3-938B-4BD0578DAFCD"
+    },
+    {
+      "class": "text",
+      "id": "0DE1EAF9-C764-4291-9A7B-A229DCE36044"
+    }
+  ],
+  "name": "Team #10",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA4178EA-FB36-4815-9FCB-98CD341D5EF5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

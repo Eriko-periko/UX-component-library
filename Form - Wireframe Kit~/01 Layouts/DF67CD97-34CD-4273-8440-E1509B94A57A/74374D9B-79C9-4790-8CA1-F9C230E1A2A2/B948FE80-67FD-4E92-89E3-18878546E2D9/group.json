@@ -1,0 +1,75 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B948FE80-67FD-4E92-89E3-18878546E2D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BFBCF5AD-A387-454C-99CA-4362825F62CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "40668B6D-3056-40B5-9B10-FB9C9E2AFCC3",
+    "height": 26,
+    "width": 768,
+    "x": 0,
+    "y": 281
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CB9A7A9C-6060-43A0-AF22-1A9EAABB4088"
+    },
+    {
+      "class": "text",
+      "id": "042C858C-7803-40AC-8D49-1325DF3A2D6C"
+    },
+    {
+      "class": "text",
+      "id": "78BCA695-BA67-4A09-884F-CF934C22F152"
+    },
+    {
+      "class": "text",
+      "id": "0C019BE1-B790-49A1-8B27-2DAFD180AA8E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "322D9E2E-F528-491C-A4F6-32CFA350A253"
+    }
+  ],
+  "name": "Botton nav",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A74B9E8-7289-4AF1-A252-414C5DE7B26D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

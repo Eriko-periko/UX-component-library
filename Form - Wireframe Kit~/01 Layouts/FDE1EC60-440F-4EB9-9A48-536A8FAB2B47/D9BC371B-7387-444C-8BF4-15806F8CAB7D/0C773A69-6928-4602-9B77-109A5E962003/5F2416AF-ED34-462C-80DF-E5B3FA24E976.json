@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5F2416AF-ED34-462C-80DF-E5B3FA24E976",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "53F36FBE-8B48-4CD1-864A-56F9579BDBEB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49EB1AF0-B754-44D1-997A-9302085830A9",
+    "height": 24,
+    "width": 353.429203539823,
+    "x": 47.78761061946904,
+    "y": 248
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Address",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "42E13054-72E2-4152-B571-FC4E1F8B5C6E_symbolID",
+      "value": "8B66067C-E5DD-4080-9652-B69A52EA1BF5"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "42E13054-72E2-4152-B571-FC4E1F8B5C6E/A79F32F0-7165-4329-AE8A-6DFF0BABC215_symbolID",
+      "value": "DF60A2D3-2140-4630-BE2F-39A79D3340A3"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "29B82AF5-64E0-4697-B4DB-37147E2064BB_stringValue",
+      "value": "385 Noah Place Suite 878"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EAA59D11-762E-47DF-9B86-B9920D6491F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E6E7F15-26EF-4A3D-B168-E972419C3A28",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

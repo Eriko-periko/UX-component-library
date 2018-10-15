@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B0F516B3-0694-4263-ADDE-82025E27C907",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C8B0CA2D-C018-4C67-A536-D2918B946F65",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "25CD7131-51DF-49C7-B6E2-933E72263C70",
+    "height": 73.49999874830246,
+    "width": 184.0999968647957,
+    "x": 104,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#1",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F14D0099-2FD8-44E4-BF65-CE8A78F74B02_stringValue",
+      "value": "Organic traffic"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "146ED054-F1CC-40E6-8E2A-586A959E5499_stringValue",
+      "value": "45%"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.699999988079071,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "81561816-8CD2-4218-B108-13ED24C52059",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.99999988079071,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1C086FCF-5045-4CBC-B260-BBF2653A8423",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "393F62AA-7C23-48E9-BA61-76BB3E239D93",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B030306-FD3A-4291-9026-033C4944F31D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 40,
+    "width": 102,
+    "x": 188,
+    "y": 194
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "2D926779-ED67-4F11-9ED7-FC1D989B2FEE_symbolID",
+      "value": "A1C2151C-FFD1-43CC-A9BF-38D0FEB8F15B"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EE80751-2C3A-4B92-8B22-6137D91DF2B7_symbolID",
+      "value": "CA0727B9-7B53-4988-9D0B-BA55FE279528"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CF0E1B02-82FA-45DD-A4E7-CB9EEDF9272F",
+      "overrideName": "2D926779-ED67-4F11-9ED7-FC1D989B2FEE/D1234652-45D7-4C97-9C73-AC56E2986F15_symbolID",
+      "value": "CEC91E18-9EA3-4714-83FB-7ADFAF0FCD7E"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB4AD27B-8E6E-4452-B478-59C705BADFD2",
+      "overrideName": "9EE80751-2C3A-4B92-8B22-6137D91DF2B7/4FF66482-0C62-4BBF-835C-832DCC837F1A_stringValue",
+      "value": "Cancel"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7B37785-963E-4960-AD96-2EC131D934B3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

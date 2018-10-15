@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "633D8E1E-EA17-4D27-BA32-54BF570D98EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C4EBA78-15D4-4B97-B00D-C2BFF32F68C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE04A6EE-B907-4E31-B139-2D33E9EEFE6A",
+    "height": 40,
+    "width": 200,
+    "x": 59.61658031088086,
+    "y": 755
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Button",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9EE80751-2C3A-4B92-8B22-6137D91DF2B7/6B05FD4C-6542-499D-A617-19C2669F5A6B_stringValue",
+      "value": "See report"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "2D926779-ED67-4F11-9ED7-FC1D989B2FEE_symbolID",
+      "value": "DD9C3F66-C01F-496F-9A0D-988E8BA29197"
+    }
+  ],
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6FCDAF21-A4D4-4399-82F7-0C25ED114637",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E7B37785-963E-4960-AD96-2EC131D934B3",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "747C37A9-74D6-41C7-B4CC-32207AE2F12B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD872D72-5EF9-4510-A882-4D04AE441791",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D37722D6-C8B3-4DD5-A620-D66DF8B45973",
+    "height": 86,
+    "width": 201,
+    "x": 119,
+    "y": 141
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "769697B6-8CB7-4848-969F-992DF90117D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A3AED70F-9176-4735-9DD5-A8DF3DF9AE12"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "281340AB-C8D6-44CC-8213-482C7E1D3338"
+    }
+  ],
+  "name": "Steps",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2EE0D20B-3CF1-4031-A041-E8C0400851D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

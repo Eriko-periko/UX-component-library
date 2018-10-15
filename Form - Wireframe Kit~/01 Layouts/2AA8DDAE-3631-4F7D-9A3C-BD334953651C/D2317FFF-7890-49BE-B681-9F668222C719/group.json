@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D2317FFF-7890-49BE-B681-9F668222C719",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 562,
+    "width": 320,
+    "x": 0,
+    "y": 2287
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C91E7E50-E51C-4A00-A473-FCB18EBC985B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "788F9794-5E69-40D0-A35F-7B2412D231F9"
+    },
+    {
+      "class": "group",
+      "id": "92BC5B15-66FD-4838-8D32-9C3A0D69DA38"
+    },
+    {
+      "class": "text",
+      "id": "6C88FF64-4C5D-47DF-A9F1-92F8016461E5"
+    }
+  ],
+  "name": "Testimonial #3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

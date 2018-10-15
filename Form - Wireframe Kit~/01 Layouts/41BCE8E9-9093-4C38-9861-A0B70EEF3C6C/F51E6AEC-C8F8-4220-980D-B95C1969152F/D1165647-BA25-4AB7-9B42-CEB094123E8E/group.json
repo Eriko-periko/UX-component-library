@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D1165647-BA25-4AB7-9B42-CEB094123E8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1418,
+    "width": 320,
+    "x": 0,
+    "y": 243
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "BE49D77E-5555-460E-A742-EBD3C3CB0CBF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A219E27E-F5D5-4F22-BABF-109B04AEA677"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BEB31F1C-AC0E-42EF-B038-92FF4EC1C3D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FA253A42-A9D8-4750-BC36-C7335C00FE5C"
+    }
+  ],
+  "name": "Projects",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

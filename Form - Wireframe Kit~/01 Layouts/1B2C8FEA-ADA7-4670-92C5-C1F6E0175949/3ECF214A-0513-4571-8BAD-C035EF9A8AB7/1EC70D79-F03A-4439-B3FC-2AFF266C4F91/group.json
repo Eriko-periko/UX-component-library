@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1EC70D79-F03A-4439-B3FC-2AFF266C4F91",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C1E3828-18CE-480F-B952-F34D423D46BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "921C24AC-B0E7-4E5B-B313-E825FF80E738",
+    "height": 440,
+    "width": 330,
+    "x": 399,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "22462685-B032-477B-BC46-88D6C963D0FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AF7C0FF3-7683-4242-ADC1-5D31D219CCD4"
+    }
+  ],
+  "name": "smartphone",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "737F1A1E-B124-40A8-A409-5A4E61557781",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

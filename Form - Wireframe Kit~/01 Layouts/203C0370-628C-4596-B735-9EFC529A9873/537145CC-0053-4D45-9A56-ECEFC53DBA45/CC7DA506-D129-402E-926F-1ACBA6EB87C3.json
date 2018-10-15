@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC7DA506-D129-402E-926F-1ACBA6EB87C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CBEDED30-8E58-49B9-8001-95E0BD76D770",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "61BFC53E-9519-4907-9DF3-6406837A9025",
+    "height": 78,
+    "width": 165,
+    "x": 204,
+    "y": 310
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "95DE521D-E543-4FB1-A1F3-EC769DEADD71_symbolID",
+      "value": "1BD680E8-91B5-470D-AFD6-808879CDFFA4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6B5DA77C-537C-43E4-82C3-A934F5EA0C01",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A577E17B-5179-4103-91E4-958B1B7B5051",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 78,
+            "enabled": 1,
+            "modelID": "constraint_89e8bb95-6aab-4919-aba9-aaa5e8580476",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 165
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_c8cd477c-f1dd-4043-a406-b74500859cc4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

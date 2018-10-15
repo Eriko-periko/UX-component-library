@@ -1,0 +1,83 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFE0F183-4F8B-48C9-BA7C-F66055C233CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92A57770-5C9C-4843-9E7B-3418E049F7AD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "2A61F34B-727D-4DE3-831C-E81534653602",
+    "height": 240.8000035881996,
+    "width": 288.0000042915344,
+    "x": 0,
+    "y": 0.800000011920929
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "name": "#2",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1.098720041701794,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DF14B132-3AA3-4EEF-A7C9-079CB8E3E89F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10.98720041701794,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "69A39C29-4A95-4A5A-8C61-BB0F8CB63E79",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6BBBE9BE-F2F6-407D-8F94-D64D3A6C7490",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 240.8,
+            "enabled": 1,
+            "modelID": "constraint_e168c24a-28f0-454c-b67a-7dec538f6ffc",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 288
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_7b935c0c-e218-4a80-87d3-d43ba8b53dd4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

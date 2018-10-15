@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5E49459-6E8C-4ED4-87EA-4A1E779CAC85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 440,
+    "width": 1440,
+    "x": 0,
+    "y": 280
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A1FE1B13-B1B3-4488-9CEB-B843D029105D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6D281D3-EE66-42E2-B81C-71BC7A379FAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2B5C778C-CCF7-4B7E-834F-E5F7DDA14AEA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "983E5BFC-758B-407F-80F5-037730B232D6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB8B73B3-2EAF-410F-A435-A46D0F001433"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0382EF07-1925-49D6-B802-473EF6774658"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F6D7DFAA-5FFF-4208-A9CE-C44A8003606E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DDA8272D-6ED8-4F1D-A7D7-FC9DA9B2972B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4966A485-35C5-4C65-921D-C9FEA0BA66E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3C136A25-C041-44F8-8453-D094387FA072"
+    }
+  ],
+  "name": "Press #2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

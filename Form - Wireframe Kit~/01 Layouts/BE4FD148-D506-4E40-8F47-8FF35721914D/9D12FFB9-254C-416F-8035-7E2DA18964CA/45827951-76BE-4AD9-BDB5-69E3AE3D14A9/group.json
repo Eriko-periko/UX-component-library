@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "45827951-76BE-4AD9-BDB5-69E3AE3D14A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BD5E5F0E-1CCE-44BC-A50A-6F288C207FCD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "64411B3A-6A1F-4AA4-8222-0E7BB2923F0D",
+    "height": 21,
+    "width": 112,
+    "x": 182,
+    "y": 305
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0F9C1DA2-1FE9-42F9-BF1A-9004D7DC3B12"
+    },
+    {
+      "class": "rectangle",
+      "id": "B2638664-3909-4D5C-8437-9482CA8AB955"
+    }
+  ],
+  "name": "TAG - Price",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "571AECE4-22A0-476F-A579-F08FBF2BA584",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 25.1999998569488,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "14383F26-333C-4FCD-BD05-4DEC3A6907CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

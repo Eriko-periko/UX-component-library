@@ -1,0 +1,93 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2A285933-91E0-4076-B679-29B280589998",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 451,
+  "clippingMaskMode": 0,
+  "do_objectID": "B80EB445-E619-4509-A525-8223CCCD31DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08903E40-7FB9-492E-B4AE-AA997962BA61",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D5322A8-7572-4651-B947-5A01594AC76B",
+    "height": 24,
+    "width": 24,
+    "x": 6497,
+    "y": 124
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2AC68EEA-4F65-47C7-8D50-0EB7A25863EA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A5AE9753-5DA1-4D88-A06A-BC0E8918CEA6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5AFF94C4-F853-4CB7-A944-34CC3D1ECDD8"
+    }
+  ],
+  "name": "Atoms / icons / System / android",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E70CA97-F452-42DD-94CA-D81E729B257C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02518E20-A95F-4CA9-A717-DBD7C8376C01",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "84363884-2444-46F2-9499-2A8E4A2F9CBD",
+    "guides": [
+    ]
+  }
+}

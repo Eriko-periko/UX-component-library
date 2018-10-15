@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "709AFF52-7898-4783-A025-82414B2C1C9D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A43D7014-943E-4C5C-BA03-F4AAAA5D4050",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5104FE90-8E90-4BF9-8323-F10EEAFD9981",
+    "height": 341.2134831460674,
+    "width": 589.5799999999999,
+    "x": 100.0599999999999,
+    "y": 376
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Laptop",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.3689999967813492,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "15E5C0A3-624D-4C03-8AB6-E1B9E48E730E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.689999967813492,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "C91E69EB-5A49-4A43-BFF5-CA0F69D85B77",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A446538D-1532-41ED-AE5E-8C042AAC50A2",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

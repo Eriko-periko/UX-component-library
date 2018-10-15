@@ -1,0 +1,87 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3F6518FB-8A14-4E36-A7CB-0F52A92CE251",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE474813-0A94-46E4-A8DF-22E29BD86058",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B9D9C3D8-1D87-4F05-8DE1-8F0E6F965E39",
+    "height": 1532,
+    "width": 320,
+    "x": 0,
+    "y": 15725
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2E275DE4-4B8D-4883-A306-55B453B01E12"
+    },
+    {
+      "class": "text",
+      "id": "D045E431-DD23-4DCB-8637-D16572D445A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CDD64583-3D30-41CC-A6FB-66DC19B4BFC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E8F292F-0764-414E-BBD2-977F01227828"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B1DDC9D1-34C7-4812-BE21-D940C0C64CE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48CC0AB5-45C6-4898-A5C2-FDD4DC7A706B"
+    },
+    {
+      "class": "text",
+      "id": "5BD830EC-1EA2-46C2-A128-B9DD964DA305"
+    },
+    {
+      "class": "text",
+      "id": "9FB7EE75-C55A-4AF3-951F-929ABAA22AE1"
+    }
+  ],
+  "name": "Pricing Table #10",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09AAD51F-1337-493F-B0BC-DECD687C9072",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

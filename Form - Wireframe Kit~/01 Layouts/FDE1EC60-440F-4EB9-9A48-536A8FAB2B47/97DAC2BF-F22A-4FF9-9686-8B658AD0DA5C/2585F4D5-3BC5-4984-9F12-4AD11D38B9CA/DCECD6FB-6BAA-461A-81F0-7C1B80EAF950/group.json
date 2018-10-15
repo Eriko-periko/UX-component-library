@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCECD6FB-6BAA-461A-81F0-7C1B80EAF950",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F785DCA7-CF25-4F89-89B3-F6081B02ADF6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2F7B7589-8302-46F8-9274-E17C42F4455A",
+    "height": 288,
+    "width": 690,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "1897EE14-FBA8-4611-B1D1-9007BF60C7A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8D99852-46FD-4188-A675-76358E0638E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "065A52B4-2486-4B43-8CFE-15A7205037E8"
+    }
+  ],
+  "name": "Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4F3FD24-2FA9-459B-AA3A-D043DAAF7AF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

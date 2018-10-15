@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "446DE1F4-0D89-401C-B34F-F36DCBE3BF05",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "652B7FA6-52D4-4493-9C68-4B5670BD2129",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BF5845FB-A5D0-4C74-985C-31F279BB6B12",
+    "height": 41,
+    "width": 689,
+    "x": 40,
+    "y": 216
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "228448D8-6E84-44C8-8B44-80278B209BA1"
+    },
+    {
+      "class": "group",
+      "id": "66FED50E-B77E-4232-8AA8-35EE2076FF35"
+    }
+  ],
+  "name": "Newsletter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7DBDABD9-A6EC-4F90-B7C8-511BFAD097E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

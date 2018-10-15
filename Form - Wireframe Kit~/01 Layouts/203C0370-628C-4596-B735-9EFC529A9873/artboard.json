@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3529411764705883,
+    "do_objectID": "DF5F8AFD-D5FA-49BF-A678-DE7B9CEE1088",
+    "green": 0.2941176470588235,
+    "red": 0.2588235294117647
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "203C0370-628C-4596-B735-9EFC529A9873",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6541F3B9-C06E-4FD5-94AD-A6DDE51CC7E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FEB640B8-9FA8-4B44-84FA-DD312BCBB4A9",
+    "height": 4824,
+    "width": 768,
+    "x": 44008,
+    "y": 590
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D490463D-77FA-411B-B515-F3060FC09636",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "267AEB8A-0DD6-41B4-A5C3-DB7E2F90A785"
+    },
+    {
+      "class": "group",
+      "id": "537145CC-0053-4D45-9A56-ECEFC53DBA45"
+    },
+    {
+      "class": "group",
+      "id": "E1679295-A27B-4D7C-8A48-BA0ED1124F07"
+    },
+    {
+      "class": "group",
+      "id": "CC08B518-839C-4D5F-8D62-8B0C1F3EA078"
+    },
+    {
+      "class": "group",
+      "id": "C7872F9D-B1CC-446F-8EA0-9374CFFC0BD9"
+    },
+    {
+      "class": "group",
+      "id": "B4BF649D-394C-4F59-8B74-2C8F219C7050"
+    },
+    {
+      "class": "group",
+      "id": "6D1CA5F8-6F7D-4129-BA84-3F50898426D8"
+    },
+    {
+      "class": "group",
+      "id": "15B26583-4C14-4DCF-A9B5-7D423F88945A"
+    },
+    {
+      "class": "group",
+      "id": "742C4162-EA00-4CEA-9060-EF1813D95AB9"
+    },
+    {
+      "class": "group",
+      "id": "5436E3A4-0D92-41EE-B40F-804176BCC4F2"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 90,
+    "do_objectID": "A6AC6BFC-4673-4516-B946-344E8B90CD76",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 30,
+    "guttersOutside": true,
+    "horizontalOffset": 24,
+    "isEnabled": false,
+    "numberOfColumns": 6,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 720
+  },
+  "name": "News & Press - Tablet",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Tablet",
+    "offersLandscapeVariant": 1,
+    "width": 768
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97BC051C-FBC9-4438-96D2-925CDFF151CF",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1FD51C5D-7857-43DE-B700-8590F5D1371F",
+    "guides": [
+    ]
+  }
+}

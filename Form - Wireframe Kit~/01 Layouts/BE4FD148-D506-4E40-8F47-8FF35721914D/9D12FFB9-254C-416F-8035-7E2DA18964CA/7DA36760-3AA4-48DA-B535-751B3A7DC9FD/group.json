@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DA36760-3AA4-48DA-B535-751B3A7DC9FD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9391FEA2-B9D2-4CAA-9F2F-C9D09EE9A154",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "96774B07-EB8E-4D1B-ABAD-3E37005B5A52",
+    "height": 21,
+    "width": 113,
+    "x": 27,
+    "y": 305
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "3B7F393A-9CAB-470B-918D-25EF888D7F1F"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C18660C-72B7-4A3C-901E-97741033A90D"
+    }
+  ],
+  "name": "TAG - Market Cap",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "03324E3C-3DD2-4CA7-9715-6B169A6A5FB4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 25.1999998569488,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "234939C1-A1DB-40BE-96E5-812F7E6E64A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

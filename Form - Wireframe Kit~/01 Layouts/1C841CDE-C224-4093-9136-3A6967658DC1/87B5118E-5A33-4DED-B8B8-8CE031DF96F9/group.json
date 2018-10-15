@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "87B5118E-5A33-4DED-B8B8-8CE031DF96F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "359B6C0C-BAF3-4A2A-9D7B-BC1BF148E952",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1AA5DF8A-131F-47BB-90EF-209EC0D36AEE",
+    "height": 100,
+    "width": 1440,
+    "x": 0,
+    "y": 3617
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "16E4A686-4BE1-4667-8E7C-FC63FB0845BB"
+    },
+    {
+      "class": "group",
+      "id": "ACC34522-C786-4933-8B7D-603DB4411B9A"
+    },
+    {
+      "class": "text",
+      "id": "D5C42F76-F7C3-4754-BD78-ECFDB5269323"
+    }
+  ],
+  "name": "CTA #9 - Join newsletter",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EB32777-B2B4-4471-8E65-16AFAE96B323",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

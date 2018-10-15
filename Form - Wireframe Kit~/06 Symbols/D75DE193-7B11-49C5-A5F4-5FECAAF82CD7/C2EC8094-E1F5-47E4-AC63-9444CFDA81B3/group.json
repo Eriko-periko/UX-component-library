@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C2EC8094-E1F5-47E4-AC63-9444CFDA81B3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 148,
+    "width": 210,
+    "x": 1,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9C424237-C766-45CB-96AB-16728D801DEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CFA202C9-C37C-44C5-8C6C-F7C2BADD296E"
+    },
+    {
+      "class": "text",
+      "id": "6FDD8D66-7635-478C-B0DA-08BA37B8A0C7"
+    },
+    {
+      "class": "text",
+      "id": "8BEB749B-4B7C-4B4A-91BB-E6A506BA7C54"
+    }
+  ],
+  "name": "Molecules / Components / Popover / Top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

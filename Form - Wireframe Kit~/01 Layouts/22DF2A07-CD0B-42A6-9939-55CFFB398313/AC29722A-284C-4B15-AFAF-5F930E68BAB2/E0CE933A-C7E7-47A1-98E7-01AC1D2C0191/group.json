@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0CE933A-C7E7-47A1-98E7-01AC1D2C0191",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EBAF8EC2-DF8F-4DCC-8001-EDC79C87B5F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "03C23547-6845-4021-9044-2816719C25FC",
+    "height": 665,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F638B3CA-46E2-4336-9DC4-FE744709AABC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13B16DC4-B488-45C5-887C-20E2A175D4FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E98E2BD4-6F43-43F9-8499-4566114D9784"
+    }
+  ],
+  "name": "Map",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0DBEC60F-B1F5-444D-BA94-FE32F30DE48A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

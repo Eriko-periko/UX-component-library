@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3CE2A7B-BCB6-419D-9D12-13AD83EAD9F1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF7CB850-DF6C-4064-A6B7-4D48CCBD5830",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1E9AE7DF-1405-4F8C-8483-20741F529D82",
+    "height": 172,
+    "width": 360,
+    "x": 215,
+    "y": 162
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C71DE757-69FE-460B-90D2-7857FE153F91"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0611F2BE-ABD7-426D-A2A7-4F0D566F08CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FEE54CDC-93A7-412E-8691-5377DA8A1192"
+    }
+  ],
+  "name": "Logo - Active",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "129BE383-E48E-4E18-8AE6-A7FFD6B71981",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "99EB089E-5EBD-4B53-A7FC-D49E8AA99C24",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66FF85EC-B2D3-4EB3-A45D-5A9A3B50632C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D99D6F87-DE54-41A6-8209-B2FA38BE4832",
+    "height": 720.4188481675393,
+    "width": 360.3425309229308,
+    "x": 1079.657469077071,
+    "y": 360.2094240837705
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "#10",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.7957000451564795,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C5907669-0052-4B00-B9DE-2698AB4E612E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.957000451564795,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A2033E63-50F7-4BE9-9850-A6AE12B95C30",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DB493FBF-0339-4498-98C1-87936B7B33C8",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

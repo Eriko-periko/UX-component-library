@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C54D82CD-6F1D-4B55-BABD-350126194851",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 22,
+    "width": 22,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "2E67EAE5-9E1C-4A66-95FE-FB499CF9940F"
+    },
+    {
+      "class": "oval",
+      "id": "AE03DF7C-BDCB-4E1C-881A-056A86659D85"
+    },
+    {
+      "class": "oval",
+      "id": "EE4B566E-12D9-4ADE-A4F8-DAA7819A77CC"
+    },
+    {
+      "class": "oval",
+      "id": "4E507652-2D56-4ACB-8CBE-4AE11A6A23FB"
+    }
+  ],
+  "name": "Front Camera Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

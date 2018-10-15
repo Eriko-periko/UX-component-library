@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "178897F5-9D01-4C8F-9DF9-987C6DF57FAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9A7E234-F510-42FC-AB3A-7E1B5E467D2B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9C5E3E71-E03C-4A83-BA4E-B06B79B88A2D",
+    "height": 226,
+    "width": 247,
+    "x": 34,
+    "y": 13
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C84B01C9-01D1-4A46-9D4A-48D21BB4713D"
+    },
+    {
+      "class": "shapePath",
+      "id": "86F51AC8-6AB3-43A9-8795-4236BEB1E008"
+    },
+    {
+      "class": "group",
+      "id": "965799A0-B715-4F16-BB52-896542FBA2D1"
+    }
+  ],
+  "name": "Chart",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EAE29F8C-DBDA-43D9-B600-06683A9AD4A8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

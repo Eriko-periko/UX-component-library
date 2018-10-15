@@ -1,0 +1,79 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE189E05-7670-4672-AD1B-B0D03DCD83C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0405A2FC-BD2D-43B2-9817-E48F6E560702",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A452CC9A-9E54-4CB2-8528-8C64E11BEC87",
+    "height": 112,
+    "width": 234,
+    "x": 0,
+    "y": 192
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "659F6A60-A321-46C9-96C6-C80FFFB54879"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EE4E3AA3-1BD8-4D4D-BF9E-7494BEE1B014"
+    }
+  ],
+  "name": "Logo - Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "298426FD-8E5F-4775-B752-69427848D286",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.500000357627869,
+      "saturation": 1,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "834CA2FC-1552-4A4D-8FB2-80743A734693",
+      "opacity": 0.5
+    },
+    "do_objectID": "991F55F7-2775-4196-812E-DDB62F54E2B0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

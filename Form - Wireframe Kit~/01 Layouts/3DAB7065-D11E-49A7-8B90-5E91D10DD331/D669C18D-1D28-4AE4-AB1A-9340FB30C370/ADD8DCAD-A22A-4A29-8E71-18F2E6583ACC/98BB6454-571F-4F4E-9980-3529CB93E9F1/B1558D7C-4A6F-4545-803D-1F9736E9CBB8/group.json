@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1558D7C-4A6F-4545-803D-1F9736E9CBB8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D13EDD36-9B55-4B68-A55C-4DA3F6200E18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "75DFB2C2-F934-4D1F-BB75-620846F9D00E",
+    "height": 352,
+    "width": 626,
+    "x": 64.20000338554382,
+    "y": 12.80000424385071
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "C45CF30F-7D8D-4023-AA79-7400A6BCFE29"
+    },
+    {
+      "class": "shapePath",
+      "id": "07F48DAB-4988-45B4-923F-CCBC603424E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "CE9B6302-758B-449D-BDDB-4893D76836F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD3E7FCD-A452-4A85-95AF-C22DE04DD06B"
+    },
+    {
+      "class": "shapePath",
+      "id": "037D430C-9E0C-459C-9DDF-0915EB05E0E3"
+    },
+    {
+      "class": "shapePath",
+      "id": "91588C2C-4CBA-443D-AC5E-4278064E7F20"
+    }
+  ],
+  "name": "Graph",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "BB20F135-7D66-46BA-8ACF-8362B4154411",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.00000047683716,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "AC6D6580-DC7D-42CC-A9F9-25FF2E4CA22A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

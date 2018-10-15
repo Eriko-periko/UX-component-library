@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD20965F-F307-4373-A5B1-9389D28518A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "82F26C6A-EF04-4C6C-92D7-91BEA98A1CF8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C6C36D3-54BD-42F7-AB0B-7E380F071340",
+    "height": 40,
+    "width": 121,
+    "x": 569,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Filter - time",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "72973794-BD24-45B0-8ACD-B453069A18D2_stringValue",
+      "value": "All"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "646225DD-F6DB-4F1F-BB93-ED1F3DC9666B_stringValue",
+      "value": "Time:"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F630553A-6140-41C3-92A9-CDAA0A1BA92E_symbolID",
+      "value": "7DBE2E8A-4655-4A75-8490-F97953490166"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C21C823C-B312-4E29-AB91-35530466624A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8B1D962-372C-449C-ADCF-F3555D0E8B6F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

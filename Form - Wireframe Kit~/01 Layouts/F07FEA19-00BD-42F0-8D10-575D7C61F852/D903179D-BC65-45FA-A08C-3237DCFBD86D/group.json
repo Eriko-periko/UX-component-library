@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D903179D-BC65-45FA-A08C-3237DCFBD86D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 876,
+    "width": 1440,
+    "x": 0,
+    "y": 7378
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "C176BB79-34FF-48FA-B2CA-310918F7104F"
+    },
+    {
+      "class": "group",
+      "id": "1A7F0A1C-3370-48DB-8798-81FBFBFDEEAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF0CA4DD-D994-47BB-8385-FD3DCC5933FF"
+    },
+    {
+      "class": "group",
+      "id": "7224ABBC-288C-4BE0-A12A-D6BEC99EAC36"
+    },
+    {
+      "class": "text",
+      "id": "C5862058-5B31-4DFF-9177-716A3351BC30"
+    }
+  ],
+  "name": "How it works #10",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
